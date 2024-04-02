@@ -1,7 +1,7 @@
 configurationset:
   - configuration:
       name: postgresql_config
-      uri: postgresql://ep-soft-haze-a5qhbvfk.us-east-2.aws.neon.tech/neondb?user=mobigaurav&password=2tXZLdqTh9Yg
+      uri: postgresql://ep-soft-haze-a5qhbvfk.us-east-2.aws.neon.tech/neondb?user=mobigaurav&password=your_password
   - configuration:
       name: auth_config
       client_id: your_client_id
