@@ -4,5 +4,5 @@ configurationset:
       uri: postgresql://ep-soft-haze-a5qhbvfk.us-east-2.aws.neon.tech/neondb?user=mobigaurav&password=2tXZLdqTh9Yg
   - configuration:
       name: auth_config
-      client_id: 688dc9585f724dd982d4f5636ee6590e
-      client_secret: adeedf2a867841ffa64416f9ae0b01d8
+      client_id: your_client_id
+      client_secret: your_secret_id
